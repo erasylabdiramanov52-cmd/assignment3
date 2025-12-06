@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Make content tall so page scrolls */
+.section-box {
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 30px;
+  height: 600px; /* forces scroll */
+}
+
+/* Optional: make headings more visible */
+h2, h3 {
+  margin-bottom: 20px;
+}
